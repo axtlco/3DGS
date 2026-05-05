@@ -1,0 +1,5 @@
+scene: chair, lpips: 0.0276, psnr: 27.3528
+scene: lego, lpips: 0.0349, psnr: 26.6424
+scene: materials, lpips: 0.0302, psnr: 25.6219
+scene: drums, lpips: 0.0656, psnr: 21.5831
+scene: average, lpips: 0.0396, psnr: 25.3000

@@ -198,3 +198,8 @@ pyrightconfig.json
 outputs
 make_teaser.py
 metrics.csv
+
+data/
+data/** 
+data/nerf_synthetic/
+data/nerf_synthetic/** 
